@@ -1,0 +1,4 @@
+# Story stuff (replace later lol)
+Genshit impac was once a normal world with normal people. They thrived for a long time. But a group called "The Red Eye" got in the way...
+## The red eye
+> They worshiped gods called "The creators." In trade for worshipping them they gave their followers a fraction of their power. But something unexpected happend. The followers happend upon a artifact called "The Core." The core was the source of their gods power, and as they were actually only worshipping them for power, and they knew it was the source from the decoded engravings... They used it for themselves for their own pleasure. They changed reality to make everyone shit 100 times per day or they would die. They of course also made this actually possible to do.

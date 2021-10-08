@@ -1,0 +1,27 @@
+{
+	"inputmsg": {
+		"1": "Press ${char} to shit ",
+		"2": "Press ${char} to shit ",
+		"3": "Press ${char} to poo ",
+		"4": "${char} to poo ",
+		"5": "${char} to live ",
+		"6": "${char} ",
+		"7": "${char},",
+		"8": "${char}... ",
+		"default": "${char} :) "
+	}, 
+	"shitgain": {
+		"1": "You now have ${shit} shit.", 
+		"2": "You have ${shit} shit. ", 
+    "3": "You have shat ${shit} times, good work. ", 
+		"4": "${shit}, keep going slave. ", 
+		"default": "${shit}, keep shitting =)"
+	}, 
+	"shitloss": {
+		"1": "You lose 2 shit. You now have ${shit} shit. ", 
+		"2": "You are falling down. You now have ${shit} shit. ", 
+		"3": "Why disobey? Haha, falling further. ${shit} shit. ", 
+		"4": "Do you wanna die =) ", 
+    "default": "Will you die? Maybe =) "
+	}
+}
